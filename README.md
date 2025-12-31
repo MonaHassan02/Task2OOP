@@ -1,4 +1,4 @@
-Task OOP3 : Assignment 03
+Task OOP3 :
 Part 01
 Design and implement a Class for the employees in a company:
 Notes:
